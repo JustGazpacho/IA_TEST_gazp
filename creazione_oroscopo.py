@@ -15,7 +15,7 @@ frasi = [
     "Una nuova opportunità potrebbe bussare alla tua porta.",
     "Non lasciare che piccoli ostacoli frenino il tuo entusiasmo."
 ]
-
+#auguri 
 def genera_oroscopo():
     oroscopo = {}
     for segno in segni:
